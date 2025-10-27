@@ -4,8 +4,8 @@ A 2D Unity game developed by our Software Engineering group.
 The project demonstrates teamwork, version control, and gameplay design principles.
 
 ## 👥 Team Members and Contributions
-- **Xavier Paunil** – Project Leader, Repository Setup, Player Controller Script  
-- **Felleandrei Uytico** – UI Design and Scene Layout  
+- **Xavier Paunil** – Project Leader, Repository Setup, Programmer, Arist
+- **Felleandrei Uytico** – UI Design and Scene Layout, Programmer  
  
 
 ## 🕹️ Game Overview
