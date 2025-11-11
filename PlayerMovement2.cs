@@ -1,4 +1,5 @@
 using UnityEngine;
+// Updated player movement script
 
 public class PlayerMovement : MonoBehaviour
 {
